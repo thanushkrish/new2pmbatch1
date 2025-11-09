@@ -1,4 +1,4 @@
-first line
-second line
-third line
-fouth line
+!#/bin/bash
+LOG_VAR = .log
+if find $(/var/log <= $LOG_VAR )
+print " Has log file" 
